@@ -1,0 +1,31 @@
+Order_ID,Date,Product,Category,Price,Quantity,Payment_Method,Manager,City
+20501,11-02-2026,Denim Jacket,Home Decor,71.61,12,Net Banking,Karthik S,Mumbai
+20502,25-02-2026,Wireless Earbuds,Electronics,144.21,15,Net Banking,Adhithan R,Chennai
+20503,09-02-2026,Denim Jacket,Home Decor,167.29,9,UPI / GPay,Karthik S,Mumbai
+20504,27-02-2026,Yoga Mat,Home Decor,94.78,8,UPI / GPay,Priya M,Chennai
+20505,09-02-2026,Wireless Earbuds,Electronics,282.46,3,Credit Card,Priya M,Mumbai
+20506,11-02-2026,Denim Jacket,Home Decor,186.58,12,Net Banking,Priya M,Chennai
+20507,27-02-2026,LED Desk Lamp,Electronics,39.48,7,UPI / GPay,Priya M,Bengaluru
+20508,06-02-2026,Mechanical Keyboard,Health & Wellness,195.84,5,Net Banking,Adhithan R,Chennai
+20509,23-02-2026,Denim Jacket,Sports Equipment,34.58,15,UPI / GPay,Priya M,Delhi
+20510,05-02-2026,Wireless Earbuds,Home Decor,171.56,7,Debit Card,Adhithan R,Mumbai
+20511,22-02-2026,Wireless Earbuds,Home Decor,73.28,4,Net Banking,Karthik S,Bengaluru
+20512,26-02-2026,Denim Jacket,Health & Wellness,261.13,13,UPI / GPay,Karthik S,Mumbai
+20513,26-02-2026,Mechanical Keyboard,Fashion Apparel,237.53,7,Debit Card,Karthik S,Chennai
+20514,28-02-2026,Protein Supplement,Fashion Apparel,122.78,1,Credit Card,Vikram T,Mumbai
+20515,28-02-2026,Denim Jacket,Fashion Apparel,100.58,13,UPI / GPay,Karthik S,Hyderabad
+20516,03-02-2026,Smart Fitness Band,Home Decor,107.2,14,Debit Card,Vikram T,Delhi
+20517,04-02-2026,LED Desk Lamp,Fashion Apparel,108.03,1,Debit Card,Adhithan R,Chennai
+20518,24-02-2026,Smart Fitness Band,Home Decor,184.21,6,Net Banking,Adhithan R,Hyderabad
+20519,09-02-2026,Wireless Earbuds,Health & Wellness,271.15,4,UPI / GPay,Karthik S,Mumbai
+20520,11-02-2026,Yoga Mat,Home Decor,136.77,11,UPI / GPay,Priya M,Delhi
+20521,11-02-2026,Protein Supplement,Home Decor,101.75,7,Credit Card,Karthik S,Hyderabad
+20522,22-02-2026,Mechanical Keyboard,Fashion Apparel,203.82,7,Debit Card,Vikram T,Delhi
+20523,10-02-2026,Denim Jacket,Health & Wellness,252.27,5,Debit Card,Vikram T,Hyderabad
+20524,17-02-2026,Protein Supplement,Fashion Apparel,139.89,4,UPI / GPay,Priya M,Delhi
+20525,11-02-2026,Wireless Earbuds,Fashion Apparel,203.52,10,Debit Card,Karthik S,Bengaluru
+20526,08-02-2026,Protein Supplement,Sports Equipment,55.28,1,UPI / GPay,Vikram T,Hyderabad
+20527,07-02-2026,Mechanical Keyboard,Health & Wellness,267.31,10,Net Banking,Vikram T,Bengaluru
+20528,01-02-2026,Smart Fitness Band,Electronics,55.34,12,Net Banking,Karthik S,Bengaluru
+20529,17-02-2026,Protein Supplement,Electronics,243.77,12,Credit Card,Adhithan R,Hyderabad
+20530,22-02-2026,Yoga Mat,Sports Equipment,51.26,8,Debit Card,Vikram T,Delhi

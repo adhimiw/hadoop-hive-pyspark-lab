@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://localhost:9000</value>
+    </property>
+    <!-- Keep ALL runtime state off /tmp so it survives a VM restart.
+         Default hadoop.tmp.dir is /tmp/hadoop-${user.name}, which the OS
+         wipes on reboot -> DataNode/NameNode lose state -> DataNode dies. -->
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>{{HDFS_DIR}}/tmp</value>
+    </property>
+</configuration>

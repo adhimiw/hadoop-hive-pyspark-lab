@@ -1,0 +1,35 @@
+# Large archives (downloaded automatically during setup)
+*.tar.gz
+*.tgz
+*.zip
+*.whl
+*.jar
+
+# Logs and runtime databases
+logs/
+*.log
+derby.log
+metastore_db/
+spark-warehouse/
+hdfs-data/
+
+# Jupyter & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lab submission documents and reports
+*.docx
+*.pdf
